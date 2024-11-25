@@ -3,10 +3,10 @@
 #   message: `1E9YwDtYf9R29ekNAfbV7MvB4LNv7v3fGa`
 #   signature: `HCsBcgB+Wcm8kOGMH8IpNeg0H4gjCrlqwDf/GlSXphZGBYxm0QkKEPhh9DTJRp2IDNUhVr0FhP9qCqo2W0recNM=`
 
-address = "1E9YwDtYf9R29ekNAfbV7MvB4LNv7v3fGa"
-signature = "HCsBcgB+Wcm8kOGMH8IpNeg0H4gjCrlqwDf/GlSXphZGBYxm0QkKEPhh9DTJRp2IDNUhVr0FhP9qCqo2W0recNM="
-message = "1E9YwDtYf9R29ekNAfbV7MvB4LNv7v3fGa"
-bitcoin-cli verifymessage $address $signature $message
+Address = "1E9YwDtYf9R29ekNAfbV7MvB4LNv7v3fGa"
+Signature = "HCsBcgB+Wcm8kOGMH8IpNeg0H4gjCrlqwDf/GlSXphZGBYxm0QkKEPhh9DTJRp2IDNUhVr0FhP9qCqo2W0recNM="
+Message = "1E9YwDtYf9R29ekNAfbV7MvB4LNv7v3fGa"
+bitcoin-cli verifymessage $Address $Signature $Message
 
 #Python
 
